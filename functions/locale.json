@@ -1,0 +1,32 @@
+{
+  "en-US": {
+    "welcome": "Welcome to the number generator. How can I help you?",
+    "pushAccepted": "Ok, I'll notify you",
+    "pushDenied": "Ok, notifications won't be sent",
+    "newNumber": "Your new number is ",
+    "newRandomNumber": "Your new random number is ",
+    "currentNumber": "Your number is ",
+    "guessIsLarger": "Yes, it's greater",
+    "guessIsSmaller": "Yes, it's lesser",
+    "guessIsEqual": "You are correct! That's the number",
+    "guessIsMissed": "No",
+    "guessIsUndefinied": "Sorry, I cannot determine it",
+    "notificationSent": "Notification has been sent",
+    "notificationTitle": "Your number has been updated"
+  },
+  "pl-PL":{
+    "welcome": "Witam w generatorze liczb. W czym mogę pomóc?",
+    "pushAccepted": "Ok, powiadomię Cię",
+    "pushDenied": "Ok, powiadomienia nie będą wysyłane",
+    "newNumber": "Twoja liczba to ",
+    "newRandomNumber": "Twoja nowa losowa liczba to ",
+    "currentNumber": "Twoja liczba to ",
+    "guessIsLarger": "Tak, jest większa",
+    "guessIsSmaller": "Tak, jest mniejsza",
+    "guessIsEqual": "Tak, to ta liczba",
+    "guessIsMissed": "Nie",
+    "guessIsUndefinied": "Nie mogę określić",
+    "notificationSent": "Powiadomienie zostało wysłane",
+    "notificationTitle": "Twoja liczba została zaktualizowana"
+  }
+}
