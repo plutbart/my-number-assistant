@@ -7,12 +7,15 @@
     "newRandomNumber": "Your new random number is ",
     "currentNumber": "Your number is ",
     "guessIsLarger": "Yes, it's greater",
-    "guessIsSmaller": "Yes, it's lesser",
+    "guessIsSmaller": "Yes, it's smaller",
     "guessIsEqual": "You are correct! That's the number",
     "guessIsMissed": "No",
     "guessIsUndefinied": "Sorry, I cannot determine it",
     "notificationSent": "Notification has been sent",
-    "notificationTitle": "Your number has been updated"
+    "notificationTitle": "Your updated number is ",
+    "larger": "larger",
+    "smaller": "smaller",
+    "equal": "equal"
   },
   "pl-PL":{
     "welcome": "Witam w generatorze liczb. W czym mogę pomóc?",
@@ -27,6 +30,9 @@
     "guessIsMissed": "Nie",
     "guessIsUndefinied": "Nie mogę określić",
     "notificationSent": "Powiadomienie zostało wysłane",
-    "notificationTitle": "Twoja liczba została zaktualizowana"
+    "notificationTitle": "Twoja liczba wynosi teraz ",
+    "larger": "więcej",
+    "smaller": "mniej",
+    "equal": "równy"
   }
 }

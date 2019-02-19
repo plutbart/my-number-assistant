@@ -10,8 +10,8 @@ function XService(randomStrategy, databaseManager, numberComparer) {
       .catch(err => console.error(err));
   };
 
-  this.guessNumber = function(db, userID, type, number, callbackLarger, calbackSmaller, callbackEqual, callbackNo, callbackCannot) {
-    return this.numberComparer.compareWithDatabaseValue(db, userID, type, number, callbackLarger, calbackSmaller, callbackEqual, callbackNo, callbackCannot)
+  this.guessNumber = function(db, userID, type, number, lang, callbackLarger, calbackSmaller, callbackEqual, callbackNo, callbackCannot) {
+    return this.numberComparer.compareWithDatabaseValue(db, userID, type, number, lang, callbackLarger, calbackSmaller, callbackEqual, callbackNo, callbackCannot)
   }
 
   this.updateX = function() {
